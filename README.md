@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 # 4. Jupyter ile notebook'ları çalıştır
 jupyter notebook
-
+```
 ---
 
 ## 🇬🇧 English Version
