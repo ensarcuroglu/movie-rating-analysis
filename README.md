@@ -70,6 +70,7 @@ movie-rating-analysis/
 ```bash
 # 1. Projeyi klonla
 git clone https://github.com/ensarcuroglu/movie-rating-analysis.git
+
 # 2. Ortam oluştur
 python -m venv venv
 venv\\Scripts\\activate  # (Windows için)
