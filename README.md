@@ -24,22 +24,7 @@ Kaggle kaynağı: [TMDB Movie Metadata](https://www.kaggle.com/datasets/tmdb/tmd
 
 ## 🗂️ Klasör Yapısı
 
-movie-rating-analysis/
-├── data/ # Veri dosyaları
-├── notebooks/ # Analizlerin yapıldığı Jupyter Notebook'lar
-│ ├── 01_data_exploration.ipynb
-│ ├── 02_genre_analysis.ipynb
-│ ├── 03_budget_analysis.ipynb
-│ ├── 03_director_analysis.ipynb
-│ ├── 03_actor_analysis.ipynb
-│ ├── 04_low_rating_popular_movies.ipynb
-│ ├── 04_best_and_worst_movies.ipynb
-│ ├── 04_yearly_rating_trend.ipynb
-│ ├── 04_top_roi_movies.ipynb
-│ └── 04_popularity_vs_rating.ipynb
-├── visuals/ # Grafik çıktı dosyaları (.png)
-├── requirements.txt
-└── README.md
+<pre> ```bash movie-rating-analysis/ ├── data/ # Veri dosyaları ├── notebooks/ # Analizlerin yapıldığı Jupyter Notebook'lar │ ├── 01_data_exploration.ipynb │ ├── 02_genre_analysis.ipynb │ ├── 03_budget_analysis.ipynb │ ├── 03_director_analysis.ipynb │ ├── 03_actor_analysis.ipynb │ ├── 04_low_rating_popular_movies.ipynb │ ├── 04_best_and_worst_movies.ipynb │ ├── 04_yearly_rating_trend.ipynb │ └── 04_top_roi_movies.ipynb │ └── 04_popularity_vs_rating.ipynb ├── visuals/ # Grafik çıktı dosyaları (.png) ├── requirements.txt └── README.md ``` </pre>
 
 ---
 
