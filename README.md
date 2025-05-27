@@ -69,8 +69,7 @@ movie-rating-analysis/
 
 ```bash
 # 1. Projeyi klonla
-git clone https://github.com/KULLANICIADIN/movie-rating-analysis.git
-
+git clone https://github.com/ensarcuroglu/movie-rating-analysis.git
 # 2. Ortam oluştur
 python -m venv venv
 venv\\Scripts\\activate  # (Windows için)
@@ -156,7 +155,7 @@ movie-rating-analysis/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/movie-rating-analysis.git
+git clone https://github.com/ensarcuroglu/movie-rating-analysis.git
 
 # 2. Create and activate virtual environment
 python -m venv venv
